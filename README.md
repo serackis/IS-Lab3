@@ -17,7 +17,7 @@ Learn to write training (parameter estimation) algorithm for the Radial Basis Fu
 Implement any alternative RBF training algorithm, where center positions c1, c2 and radius values r1, r2 are updated during training.
 
 # Suggested reading
-- Neural Networks and Learning Machines (3rd Edition), page <...>, Table 1.1. 
+- Neural Networks and Learning Machines (3rd Edition), page 54 for main task (or 261-267 for additional task), Table 1.1. 
 
 # IS-Lab3 (LT)
 Intelektualiosios sistemos. Trečiojo laboratorinio darbo užduotis.
@@ -34,4 +34,4 @@ Išmokti savarankiškai suprogramuoti paprasto netiesinio aproksimatoriaus, grį
 # Papildoma užduotis (papildomi 2 balai)
 Apmokykite SBF tinklą kitu algoritmu, kuris taip pat atnaujina/parenka automatiškai ir centrų c1, c2 bei spindulių r1, r2 reikšmes.
 # Rekomenduojama literatūra
-- Neural Networks and Learning Machines (3rd Edition)
+- Neural Networks and Learning Machines (3rd Edition), pagrindinei užduočiai užtenka perceptrono parametrų atnaujinimo algoritmo 54 psl., papildomai užduočiai 261-267 psl. pateiktos santraukos k-means + RLS/LMS.
